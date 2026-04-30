@@ -43,8 +43,9 @@ Uma **PWA (Progressive Web App)** é uma evolução das páginas web tradicionai
 ---
 
 ## 4. Como fazer o deploy no Netlify
-1. Crie uma conta no [Netlify](https://www.netlify.com/).
+1. Crie uma conta no [Netlify]([https://www.netlify.com/](https://www.netlify.com/)).
 2. Conecte seu repositório do GitHub ou faça o upload manual da pasta do projeto.
 3. Certifique-se de que o arquivo principal se chama `index.html` e está na raiz.
 4. O Netlify gerará automaticamente um link seguro (HTTPS), requisito obrigatório para o funcionamento do PWA.
-5. **Link da aplicação:** [COLE_AQUI_O_SEU_LINK_FINAL]
+5. **Link da aplicação:**
+6. https://buscacep-seu-nome-nr.netlify.app/
